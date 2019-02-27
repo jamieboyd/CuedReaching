@@ -1,0 +1,1 @@
+{"resolution": [320, 320], "quality": 20, "UDP_IP": "169.254.6.26", "UDP_Sender": "169.254.154.203", "previewWin": [0, 0, 320, 320], "UDP_Port": 5007, "dataPath": "/home/pi/Documents/", "format": "h264", "whiteBalance": false, "iso": 200, "maxRecSecs": 30.0, "framerate": 30, "shutter_speed": 16430, "GPIOpin" : 16}
